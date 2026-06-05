@@ -38,7 +38,7 @@ Build Instructions
     
 •	Run Application: 
 
-    Using Jar: java -jar target/country-routing-0.0.1-SNAPSHOT.jar
+    Using Jar: java -jar target/country-routing-0.0.1.jar
     Using Maven: mvn spring-boot:run
     
 •	Application runs at http://localhost:8080

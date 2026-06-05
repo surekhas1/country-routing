@@ -1,5 +1,6 @@
 # country-routing
 Country Routing Service - Release Notes
+
 Spring Boot REST API that calculates land route between two countries using BFS on real-world border data.
 
 Features

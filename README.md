@@ -15,7 +15,7 @@ mvn clean package
 Run:
 java -jar target/country-routing-0.0.1.jar
 
-Test:
+Test: Using Postman/Browser
 GET http://localhost:8080/routing/CZE/ITA
 
 Expected:
